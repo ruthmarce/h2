@@ -1,5 +1,5 @@
 <?php
-
+echo "Hola. Hoy es 27 de Marzo de 2018";
 require('../vendor/autoload.php');
 
 $app = new Silex\Application();
